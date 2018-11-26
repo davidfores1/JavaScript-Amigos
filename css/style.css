@@ -1,0 +1,51 @@
+body {
+    font-family: helvetica;
+}
+
+#header {
+    text-align: center;
+    height: 50px;
+    line-height: 50px;
+    background-color:green;
+}
+
+#header h1{
+ color:#fff;
+}
+
+.row {
+   padding: 30px;
+}
+
+#resultados {
+    margin: 30px 20px 10px 20px;
+}
+
+.person-row {
+    margin: 10px 0px;
+    padding: 10px;
+    width: 100%;
+    float: left;
+    background-color: #FDB45C;
+}
+
+.person-row img {
+    float: left;
+    margin-right: 20px;
+}
+
+.person-info {
+    float: left;
+}
+
+.person-row > button {
+    float: right;
+}
+
+#sexo{
+    margin-left:26px;
+}
+
+.hh{
+    margin:20px;
+}
