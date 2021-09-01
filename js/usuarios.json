@@ -1,0 +1,44 @@
+[
+    {
+        "nombre": "vanessa",
+        "sexo": "F",
+        "hobby": "cocinar",
+        "avatar": "avatar1.png"        
+    },
+    {
+        "nombre": "Betty",
+        "sexo": "F",
+        "hobby": "Programar",
+        "avatar": "avatar2.png"
+    },
+    {
+        "nombre": "Sammir",
+        "sexo": "M",
+        "hobby": "Rock",
+        "avatar": "avatar3.png"
+    },
+    {
+        "nombre": "Fernando Quiros",
+        "sexo": "M",
+        "hobby": "viajar",
+        "avatar": "avatar4.png"
+    },
+    {
+        "nombre": "Jennifer Jimenez",
+        "sexo": "F",
+        "hobby": "viajar",
+        "avatar": "avatar5.png"
+    },
+    {
+        "nombre": "Richar Martinez",
+        "sexo": "M",
+        "hobby": "ajedrez",
+        "avatar": "avatar6.png"
+    },
+    {
+        "nombre": "Charlie",
+        "sexo": "M",
+        "hobby": "futbol",
+        "avatar": "avatar7.png"
+    }
+]
