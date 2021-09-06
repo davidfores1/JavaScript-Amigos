@@ -48,9 +48,6 @@ function findUsersOrUser(usuarios) {
                                    <div>' + usuarios[i].nombre + '</div>\
                                    <div>' + usuarios[i].hobby + '</div></div>\
                                     <button class="btn btn">Agregar Amigo</button></div>';
-            }else if(hobby != usuarios[i].hobby){
-              alert("Hobbie no encontrado")
-              location.load();
             }
         }
     }
